@@ -1,0 +1,3 @@
+<?php
+//Commun.php
+?>
